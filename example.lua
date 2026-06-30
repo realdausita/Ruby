@@ -1,4 +1,4 @@
-local Ruby = loadstring(game:HttpGet("https://github.com/realdausita/RubyHub/releases/latest/download/main.lua"))()
+local Ruby = loadstring(game:HttpGet("https://github.com/realdausita/Ruby/releases/latest/download/main.lua"))()
 
 local Loader = Ruby:CreateLoader({
     Title = "Ruby Hub",
